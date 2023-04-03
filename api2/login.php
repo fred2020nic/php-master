@@ -2,6 +2,7 @@
 // phpinfo();
 
 echo "hola mundo con php";
+
 ?>
 
 <!DOCTYPE html>

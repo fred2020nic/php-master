@@ -1,0 +1,4 @@
+1. pasar a confg las credenceiales de prisma, en el sistema en el arhivo config, para que los metodos manden a guardar en los modelos creados con prisma.
+2. crear los modelos iguales a las base de datos que tenes ahora para que las base de dates de prismas concidan con las del localhost.
+3. adecuar todo el archivos en la carpeta api para que desde ahi se comunique con el frontend y el backend es decir las rutas.
+4. puede ser necesario anteponer la palabra api a las rutas de includes o require o las de ref de css y las de src de js.

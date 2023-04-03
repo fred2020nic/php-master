@@ -15,6 +15,30 @@ echo "hola mundo con php 8.2";
 
 
 
+
+
 ?>
+
+<?php
+/*código php... */
+
+PRINT <<<HERE
+
+/*dentro de este PRINT podremos picar código HTML, y será interpretado sin problema */
+
+<a href="../api/"></a>
+
+HERE;
+
+?>
+
+<?php if ( $a==$b ) : ?>
+
+
+    <a href="../api/"></a>
+    <a href="../api/"></a>
+    <a href="../api/"></a>
+
+<?php endif ?>
 
 

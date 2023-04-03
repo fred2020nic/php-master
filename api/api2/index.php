@@ -3,7 +3,7 @@
 
 echo "hola mundo con php 7.4";
 
-echo "f2";
+echo "f2-api2/";
 
 echo "hola mundo con php 8.2";
 
